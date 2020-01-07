@@ -69,7 +69,6 @@ public class UserAddress implements Serializable {
 	public void setPhoneNum(String phoneNum) {
 		this.phoneNum = phoneNum;
 	}
-
 	public String getIsDefault() {
 		return isDefault;
 	}
